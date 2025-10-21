@@ -1,5 +1,3 @@
-# jaks-staks
-
 Some simple docker-compose stacks
 
 ```
